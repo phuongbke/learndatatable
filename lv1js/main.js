@@ -9,7 +9,7 @@
           { "data": "image_lkh", "title":"LKH"},
           { "data": "image_kaizen", "title":"Kaizen"},
           { "data": "image_thien", "title":"Thiền"},
-          { "data": "image_theduc", "title":"Thể dục" },
+          { "data": "image_theduc", "title":"Thể dục"},
       ]
     })
     });
