@@ -21,6 +21,7 @@ import thoiquenJson from './datax3.json' assert {type: 'json'};
 $(document).ready(function () {
     $('#draft').DataTable({
         "data": thoiquenJson,
+        "dataSrc": "",
         "columns": [
             { "data": "date", "title":"Ngày"},
           { "data": "id", "title":"ID"  },
